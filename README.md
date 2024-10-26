@@ -17,7 +17,7 @@ Para executar este projeto, você precisará do .NET SDK instalado em sua máqui
 
 1. Clone o repositório:
     ```sh
-    git clone https://github.com/seu-usuario/calculadora.git
+    git clone https://github.com/Dpescador/calculadora.git
     ```
 2. Navegue até o diretório do projeto:
     ```sh
