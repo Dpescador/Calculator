@@ -1,0 +1,42 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]rtifacts/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.ide-helper
+*.tmbundle
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# OS-generated files
+[Tt]humbs.db
+[Dd]esktop.ini
+[Ee]hthumbs.db
+.DS_Store
+$RECYCLE.BIN/
+
+# Logs
+*.log
+logs/
+
+# Other directories
+.idea/
+.vscode/
+.vs/
+.vscode/
